@@ -1,3 +1,2 @@
-🎯 Objective
-
-This analysis was performed to explore learner performance patterns using a student score dataset. The findings will inform the design of interventions for the next academic term, targeting areas for improvement in student performance. The final cleaned dataset is available in an executive-ready Excel file.
+Student Performance Exploratory Data Analysis (EDA)
+This document summarizes the Exploratory Data Analysis (EDA) performed on the Week-5-Student-Scores.csv dataset, fulfilling the requirements for the "Performing EDA in Python" group project. The analysis aims to explore learner performance patterns to inform future interventions.
